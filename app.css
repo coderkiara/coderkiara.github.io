@@ -39,4 +39,5 @@ p {
 }
 .body-image {
 text-align:center;
+    border:3px solid lightblue;
 }
